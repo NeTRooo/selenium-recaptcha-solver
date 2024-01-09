@@ -1,0 +1,1 @@
+# selenium-recaptcha-solver
